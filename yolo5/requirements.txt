@@ -1,0 +1,10 @@
+flask
+pyyaml
+loguru
+
+boto3
+
+# testing
+
+pylint
+pytest
